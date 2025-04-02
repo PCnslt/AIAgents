@@ -3,4 +3,4 @@
 Tools used:
 - LangChain
 - LangGraph
-- FlowWise
+- Flowise
